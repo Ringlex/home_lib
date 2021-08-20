@@ -1,0 +1,16 @@
+{"home":[
+  { "id":1,
+    "room":"Kitchen", 
+    "lampState":1, },
+  { "id":2,
+    "room":"Bathroom", 
+    "lampState":0 },
+  { "id":3,
+    "room":"Bedroom", 
+    "lampState":0,
+    },
+  { "id":4,
+    "room":"Livingroom", 
+    "lampState":0,
+    }
+]}

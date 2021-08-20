@@ -7,10 +7,8 @@
     "lampState":0 },
   { "id":3,
     "room":"Bedroom", 
-    "lampState":0,
-    },
+    "lampState":0 },
   { "id":4,
     "room":"Livingroom", 
-    "lampState":0,
-    }
+    "lampState":0 }
 ]}
